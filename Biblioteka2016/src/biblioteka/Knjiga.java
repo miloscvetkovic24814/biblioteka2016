@@ -30,6 +30,7 @@ public class Knjiga {
 	}
 	public void setAutori(LinkedList<Autor> autori) {
 		this.autori = autori;
+
 	}
 	public void setIzdavac(String izdavac) {
 		this.izdavac = izdavac;

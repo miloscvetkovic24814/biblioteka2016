@@ -50,7 +50,4 @@ public class Autor {
 			return false;
 		return true;
 	}
-	
-	
-
 }
